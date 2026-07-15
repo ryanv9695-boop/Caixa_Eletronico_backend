@@ -22,7 +22,7 @@ Projeto desenvolvido para aplicação prática de lógica de programação e alg
 
 Abaixo está o diagrama lógico (fluxograma) que mapeia todas as decisões e laços do sistema:
 
-![Fluxograma do Sistema](Diagrama_Fluxo.png)
+![Fluxograma do Sistema](DiagramaFluxo.png)
 
 ## 🛠️ Tecnologias e Estruturas Utilizadas
 
